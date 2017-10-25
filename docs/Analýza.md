@@ -28,7 +28,7 @@ Ako prvé vytvoríme topológiu, pre dané riešenie. Vytvorenie TCP spojenia v 
 Využijeme štandrad TCP-New Reno, ktorý bol využitý v mnohých štúdiach. Inicializačné okno bude nastavené na 12KB a prepínače budú využívať DropTail queues s veľkosťou buffra 100 paketov.
 
 Repflow využíva rovnaké parametre ako TCP, ale všetky toky menšie ako 100KB budú replikované.  
-![1pod](https://github.com/aks-2017/semestralne-zadania-semestralne-zadanie-xjuhasovan-xungerova/blob/master/docs/1 pod of Fat-Tree.png "1 pod Fat-tree")
+![1pod](https://github.com/aks-2017/semestralne-zadania-semestralne-zadanie-xjuhasovan-xungerova/blob/master/docs/1pod.png "1 pod Fat-tree")
 Obr.1 - 1 pod z topológie 4-pod Fat-tree [5]
 
 Náš návrh budeme testovať na začiatku na jednom pode z topológie 4-pod Fat-tree.
