@@ -46,5 +46,18 @@ Budeme používať 4-pod Fat-tree so 16 hostami prepojené 20 prepínačmi (viď
 Mininet sa stáva nestabilným, keď zaťaženie presahuje 0,5 , čo môže spôsobiť jeho obmedzenie v škálovateľnosti.
 
 ## Zdroje
+[1] Nandita Dukkipati, Nick McKeown : Why Flow-Completion Time is the Right metric for
+Congestion Control and why this means we need new algorithms: Computer Systems Laboratory, Stanford University, Stanford, CA 94305-9030, USA
+
+[2] Valter Popeskic. HOL Head-of-line blocking.
+https://howdoesinternetwork.com/2015/hol-head-of-line-blocking
+
+[3] http://mininet.org/
+
+[4] MurphyMc. 2013. RipL-POX (Ripcord-Lite for POX): A simple network controller for OpenFlow-based data centers 
+https://github.com/MurphyMc/riplpox
+
+[5]Karishma Sureka. 2014. Datacenters - Reduction of Broadcast traffic using SDN
+http://sdn-in-datacenters.blogspot.sk/2014/04/literature-survey-portland-design.html
 
 
